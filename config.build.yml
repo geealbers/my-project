@@ -19,7 +19,7 @@
 
 # Use these settings for GH Pages
 #
-baseURL: "https://nancyum.github.io/my-project"
+baseURL: "https://geealbers.github.io/my-project-test"
 canonifyURLs: true
 relativeURLs: false
 
